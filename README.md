@@ -1,2 +1,2 @@
 # TCM
-simulation codes for the paper Channel Coding with Multilevel/Phase Signals 
+simulation codes of the paper Channel Coding with Multilevel/Phase Signals 
